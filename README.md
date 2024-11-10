@@ -2,7 +2,7 @@
 
 ![CS2 Bomb Timer Screenshot](images/screenShot.png)
 
-Ever wanted an automatic countdown timer for CS2 bombs without having to keep track yourself? CS2 Bomb Timer has you covered! It’s a simple tool that detects when the bomb is planted, defused, or explodes—all by analyzing screenshots. Just launch and it’ll handle the rest.
+Ever wanted an automatic countdown timer for CS2 bombs without having to keep track yourself? CS2 Bomb Timer has you covered! It’s a simple tool that detects when the bomb is planted, defused, or explodes—all by analyzing screenshots. Just launch it and it’ll handle the rest.
 
 ## 🎉 Features
 - **Automatic Detection**: Instantly detects bomb events—plant, defuse, and explosion.
@@ -40,3 +40,4 @@ Simply double-click `Launch.bat` to start the tool. It will automatically monito
 - **Resolution**: Only tested on 1920x1080.
 - **Platform**: Windows only for now.
 - **Monitors**: You need 2 monitors to be able to see the timer while ingame since it isn't an overlay. (Mini edition that overlays might get made on request)
+- **Accuracy**: Not 100% accurate. The timer may be off sometimes by about half a second.**
