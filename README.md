@@ -30,6 +30,8 @@ If you prefer to install things manually, you can do:
    pip install -r requirements.txt
 ```
 
+If the program dopesn't seem to work, you might need to replace the following images in the images folder "roundLost.jpg, roundWon.jpg, target.jpg" with your own screenshotted images of the same things.
+
 ### Notes on the Launcher
 The `Launch.bat` file uses `pyw` to start `main.py`. If your system prefers `pythonw` or `pythonw3`, just edit `Launch.bat` and replace the two instances of `pyw` with the one that works for you.
 
